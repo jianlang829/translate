@@ -473,8 +473,8 @@
       .translate-box .translate-lang .item:hover { background: #f6fafe; color:#333}
       .translate-box .translate-dropdown { cursor:pointer; fill: #999;margin: 0 10px 0 20px; padding:5px;border-radius:50%}
       .translate-box .translate-dropdown:hover { fill: #666; background:#f5f5f5 }
-      .translate-box .translate-box .from-side .translate-title { border-radius: 15px 0 0 0;}
-      .translate-box .translate-box .to-side .translate-title { border-radius: 0 15px 0 0;}
+      .translate-box .from-side .translate-title { border-radius: 15px 0 0 0;}
+      .translate-box .to-side .translate-title { border-radius: 0 15px 0 0;}
       .translate-box .translate-btn { border: 0; border-radius: 5px; color: #fff; font-size: 14px; padding: 8px 13px; background: #4396fc; cursor: pointer; line-height: 1; display: flex; align-items: center;}
       .translate-box .translate-btn:hover { background: #187efa;}
       .translate-box .translate-loading-css { width: 12px; height: 12px; border: 2px solid #FFF; margin-right:6px; border-bottom-color: transparent; border-radius: 50%; display: inline-block; box-sizing: border-box; animation: __rotation 1s linear infinite; }
